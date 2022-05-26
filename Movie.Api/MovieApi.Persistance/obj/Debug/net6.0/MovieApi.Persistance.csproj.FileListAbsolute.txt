@@ -1,0 +1,15 @@
+C:\Users\oakca\Desktop\Movie.Api\MovieApi.Persistance\bin\Debug\net6.0\MovieApi.Persistance.deps.json
+C:\Users\oakca\Desktop\Movie.Api\MovieApi.Persistance\bin\Debug\net6.0\MovieApi.Persistance.dll
+C:\Users\oakca\Desktop\Movie.Api\MovieApi.Persistance\bin\Debug\net6.0\MovieApi.Persistance.pdb
+C:\Users\oakca\Desktop\Movie.Api\MovieApi.Persistance\bin\Debug\net6.0\MovieApi.Core.dll
+C:\Users\oakca\Desktop\Movie.Api\MovieApi.Persistance\bin\Debug\net6.0\MovieApi.Core.pdb
+C:\Users\oakca\Desktop\Movie.Api\MovieApi.Persistance\obj\Debug\net6.0\MovieApi.Persistance.csproj.AssemblyReference.cache
+C:\Users\oakca\Desktop\Movie.Api\MovieApi.Persistance\obj\Debug\net6.0\MovieApi.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oakca\Desktop\Movie.Api\MovieApi.Persistance\obj\Debug\net6.0\MovieApi.Persistance.AssemblyInfoInputs.cache
+C:\Users\oakca\Desktop\Movie.Api\MovieApi.Persistance\obj\Debug\net6.0\MovieApi.Persistance.AssemblyInfo.cs
+C:\Users\oakca\Desktop\Movie.Api\MovieApi.Persistance\obj\Debug\net6.0\MovieApi.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\oakca\Desktop\Movie.Api\MovieApi.Persistance\obj\Debug\net6.0\MovieApi.Persistance.csproj.CopyComplete
+C:\Users\oakca\Desktop\Movie.Api\MovieApi.Persistance\obj\Debug\net6.0\MovieApi.Persistance.dll
+C:\Users\oakca\Desktop\Movie.Api\MovieApi.Persistance\obj\Debug\net6.0\refint\MovieApi.Persistance.dll
+C:\Users\oakca\Desktop\Movie.Api\MovieApi.Persistance\obj\Debug\net6.0\MovieApi.Persistance.pdb
+C:\Users\oakca\Desktop\Movie.Api\MovieApi.Persistance\obj\Debug\net6.0\ref\MovieApi.Persistance.dll

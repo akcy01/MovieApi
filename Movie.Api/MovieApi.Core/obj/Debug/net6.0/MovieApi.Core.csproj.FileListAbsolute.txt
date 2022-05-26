@@ -1,0 +1,12 @@
+C:\Users\oakca\Desktop\Movie.Api\MovieApi.Core\bin\Debug\net6.0\MovieApi.Core.deps.json
+C:\Users\oakca\Desktop\Movie.Api\MovieApi.Core\bin\Debug\net6.0\MovieApi.Core.dll
+C:\Users\oakca\Desktop\Movie.Api\MovieApi.Core\bin\Debug\net6.0\MovieApi.Core.pdb
+C:\Users\oakca\Desktop\Movie.Api\MovieApi.Core\obj\Debug\net6.0\MovieApi.Core.csproj.AssemblyReference.cache
+C:\Users\oakca\Desktop\Movie.Api\MovieApi.Core\obj\Debug\net6.0\MovieApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oakca\Desktop\Movie.Api\MovieApi.Core\obj\Debug\net6.0\MovieApi.Core.AssemblyInfoInputs.cache
+C:\Users\oakca\Desktop\Movie.Api\MovieApi.Core\obj\Debug\net6.0\MovieApi.Core.AssemblyInfo.cs
+C:\Users\oakca\Desktop\Movie.Api\MovieApi.Core\obj\Debug\net6.0\MovieApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\oakca\Desktop\Movie.Api\MovieApi.Core\obj\Debug\net6.0\MovieApi.Core.dll
+C:\Users\oakca\Desktop\Movie.Api\MovieApi.Core\obj\Debug\net6.0\refint\MovieApi.Core.dll
+C:\Users\oakca\Desktop\Movie.Api\MovieApi.Core\obj\Debug\net6.0\MovieApi.Core.pdb
+C:\Users\oakca\Desktop\Movie.Api\MovieApi.Core\obj\Debug\net6.0\ref\MovieApi.Core.dll
